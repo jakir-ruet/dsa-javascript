@@ -10,7 +10,10 @@
 ### Data Structures & Algorithms with JavaScript
 
 ## Array
+- The stack follow **LIFO (Last-In-First-Out)**.
+- The queues follow **FIFO (First-In-First-Out)**.
 
+Arrays in JavaScript can work both as a **queue** and as a **stack**. The element add/remove from array basis on index number.
 - It start from zero-indexed and maintain the order.
 - An array is an object that can hold a collection of multiple values.
 - Arrays can contain a mix of different data types such as strings, booleans, numbers or even objects all in the same array.
