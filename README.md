@@ -18,14 +18,14 @@
 - Arrays are iterables. They can be used with a for of loop.
 - Methods:
   Method | Activity
-  ------- | -------------
-  pop | dsfsd
-  push | fdsf
-  shift | dddd
-  unshift | ddd
-  slice | dd
-  splice | ddas,
-  concat | dsd
+  ------- | --------
+  push | Adds an element to the end
+  pop | Takes an element from the end
+  shift | Shift the element from one index to another index
+  unshift | Lock the data in specific index
+  slice | Return data from beginIndex to endIndex
+  splice | Return data from beginIndex to endIndex by removing
+  concat | Add an element with other element
 
 ## Courtesy of Jakir,
 
