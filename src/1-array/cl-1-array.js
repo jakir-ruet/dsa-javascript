@@ -1,5 +1,12 @@
 const arr = [2, 1, 4, 5, 'Jakir'];
 console.log(arr);
+arr.unshift(3); //apend the data into the array
+arr.shift() //remove the value from array
+for (const item of arr) {
+   console.log(item)
+}
+
+console.log(`length = ${arr.length}`)
 
 //or
 const arrOne = new Array(4, 5, 3, 2, 'Jakir');

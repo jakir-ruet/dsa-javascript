@@ -19,16 +19,6 @@ Arrays in JavaScript can work both as a **queue** and as a **stack**. The elemen
 - Arrays can contain a mix of different data types such as strings, booleans, numbers or even objects all in the same array.
 - Arrays are resizable. You don't have to declare the size of an array before creating it.
 - Arrays are iterables. They can be used with a for of loop.
-- Methods:
-  Method | Activity
-  ------- | --------
-  push | Adds an element to the end
-  pop | Takes an element from the end
-  shift | Shift the element from one index to another index
-  unshift | Lock the data in specific index
-  slice | Return data from beginIndex to endIndex
-  splice | Return data from beginIndex to endIndex by removing
-  concat | Add an element with other element
 
 ## Courtesy of Jakir,
 
