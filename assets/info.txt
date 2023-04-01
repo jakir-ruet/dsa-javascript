@@ -1,0 +1,30 @@
+BigO
+-------------------------------------------
+1. Loop                          > O(n)
+2. Nested Loop                   > O(n^2)
+3. Input size Reduced by half    > O(logn)
+
+
+BigO for Object
+--------------------------------------------
+Object is the collection of key values pair.
+--------------------------------------------
+1. Insert            > O(1) > Constant
+2. Remove            > O(1) > Constant
+3. Access            > O(1) > Constant
+4. Search            > O(n) > Linear
+5. Object.keys()     > O(n) > Linear
+6. Object.values()   > O(n) > Linear
+7. Object.entries()  > O(n) > Linear
+
+BigO for Array
+--------------------------------------------
+Array is an order collection of values.
+--------------------------------------------
+1. Insert/Remove at end                > O(1) > Constant
+2. Insert/Remove at begining           > O(n) > Linear
+3. Access                              > O(1) > Constant
+4. Search                              > O(n) > Linear
+5. Push/Pop                            > O(1) > Constant
+6. Shift/Unshift/Concat/Slice/Splice   > O(n) > Linear
+7. forEach/Map/Filter/Reduce           > O(n) > Linear

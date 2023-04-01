@@ -1,0 +1,16 @@
+Give a number 'n' find the first 'n' elements of the fibonacci sequence.
+------------------------------------------------------------------------
+Eqaution:
+f(n-1) + f(n-2) = f(n); hence n must be positive
+------------------------------------------------------------------------
+a b = c (a replace by b & b replace by c) for ever instance.
+- - = -
+0 1 = 1 
+1 1 = 2     fibonacci(2)   = [0 1]
+1 2 = 3     fibonacci(3)   = [0 1 1]
+2 3 = 5     fibonacci(5)   = [0 1 1 2 3 5]
+3 5 = 8     fibonacci(7)   = [0 1 1 2 3 5 8]
+5 8 = 13    fibonacci(9)   = [0 1 1 2 3 5 8 13]
+8 13 = 21   fibonacci(11)  = [0 1 1 2 3 5 8 13 21]
+13 21 = 34  fibonacci(13)  = [0 1 1 2 3 5 8 13 21 34]
+21 34 = 55  fibonacci(15)  = [0 1 1 2 3 5 8 13 21 34 55]

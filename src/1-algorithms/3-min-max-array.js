@@ -22,5 +22,6 @@ function minValue() {
    }
    return minimum; // Operation 1
 }
+// Time Complexity
 // BigO >> T(n) = 1 + n (1 + 1) + 1 = 1 + 2n + 1 = 2n + 2 => O(n)
-console.log(minimum)
+console.log(`Min value using fn ${minimum}`)
