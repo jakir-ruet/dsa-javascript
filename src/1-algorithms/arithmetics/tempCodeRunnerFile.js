@@ -1,0 +1,2 @@
+
+isPwrOfTwo(1);
