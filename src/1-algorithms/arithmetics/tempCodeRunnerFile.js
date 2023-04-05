@@ -1,2 +1,0 @@
-
-isPwrOfTwo(1);
