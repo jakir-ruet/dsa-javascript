@@ -16,4 +16,5 @@ console.log(maxVal);
 let minVal = myArray.reduce((preVal, curVal) => {
    return Math.min(preVal, curVal)
 });
+
 console.log(minVal);
